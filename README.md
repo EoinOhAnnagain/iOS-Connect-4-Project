@@ -1,7 +1,7 @@
 # iOS-Connect-4-Project
 iOS Connect 4 app
 
-The repo contains my Connect 4 game project created for my iOS module at UCD. Please note that the folder Alpha0C4 and its content, the game's AI, are not mine and were provided by my lecturer. 
+The repo contains my Connect 4 game project created for my iOS module at UCD. Please note that the folder Alpha0C4 and its content, the game's AI, are not mine and were provided by my lecturer. Alpha0C4 creates issues with more recent versions of Xcode and it is recommended that Xcode version 13.2.1 is used.
 
 The app allows users to play Connect 4 against an AI. They may choose from multiple piece colours, expanded from the number the AI is designed to work with, and games are saved using user defaults after each turn. Core data is used to store completed games and the user can choose them from the main menu to replay. 
 
